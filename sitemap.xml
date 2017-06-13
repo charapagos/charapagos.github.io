@@ -167,13 +167,13 @@
   </url>
   
   <url>
-    <loc>https://charapagos.github.io/</loc>
-    <lastmod>2017-05-18T14:57:57+09:00</lastmod>
+    <loc>https://charapagos.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://charapagos.github.io/tags/</loc>
+    <loc>https://charapagos.github.io/</loc>
+    <lastmod>2017-05-18T14:57:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
